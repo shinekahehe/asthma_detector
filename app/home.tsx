@@ -230,7 +230,6 @@ const styles = StyleSheet.create({
         gap: 16,
     },
     monitorCard: {
-        background: Colors.primary,
         backgroundColor: Colors.primary,
         borderRadius: 20,
         padding: 20,
