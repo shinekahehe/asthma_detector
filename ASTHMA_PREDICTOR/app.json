@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "AsthmaCare AI",
+    "slug": "asthmacare-ai",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "asthmacare",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff",
+        "foregroundImage": "./assets/images/icon.png"
+      }
+    },
+    "web": {
+      "output": "single"
+    }
+  },
+  "install": {
+    "exclude": ["@types/react"]
+  }
+}
