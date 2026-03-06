@@ -1,0 +1,45 @@
+/**
+ * App theme colors matching the Figma design.
+ */
+
+export const Colors = {
+  primary: '#3B82F6',
+  primaryDark: '#2563EB',
+  accent: '#14B8A6',
+  background: '#F3F4F6',
+  white: '#FFFFFF',
+  cardBg: '#FFFFFF',
+  darkBg: '#111827',
+  darkCard: '#1F2937',
+  darkBorder: '#374151',
+  textPrimary: '#111827',
+  textSecondary: '#6B7280',
+  textMuted: '#9CA3AF',
+  border: '#F3F4F6',
+  borderLight: '#E5E7EB',
+  success: '#10B981',
+  successLight: '#ECFDF5',
+  successText: '#065F46',
+  warning: '#F59E0B',
+  warningLight: '#FFFBEB',
+  warningText: '#92400E',
+  danger: '#EF4444',
+  dangerLight: '#FEF2F2',
+  dangerText: '#991B1B',
+  light: {
+    text: '#111827',
+    background: '#F3F4F6',
+    tint: '#3B82F6',
+    icon: '#6B7280',
+    tabIconDefault: '#9CA3AF',
+    tabIconSelected: '#3B82F6',
+  },
+  dark: {
+    text: '#F9FAFB',
+    background: '#111827',
+    tint: '#3B82F6',
+    icon: '#9CA3AF',
+    tabIconDefault: '#6B7280',
+    tabIconSelected: '#3B82F6',
+  },
+};
